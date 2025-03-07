@@ -1,0 +1,9 @@
+.content__title {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}

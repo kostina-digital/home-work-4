@@ -1,0 +1,30 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.content__title {
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.content__gallery {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.content__gallery__item {
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: space-between;
+
+}
+
+.content__gallery__item img {
+    width: 100%;
+
+}
